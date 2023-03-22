@@ -1,4 +1,5 @@
-* { box-sizing: border-box; } body {
+* { box-sizing: border-box; } 
+body {
 background-color: #EAEAEA;
 color: #666666;
 font-family: Verdana, Arial, sans-serif;
@@ -20,7 +21,10 @@ color: #FFFFFF;
 font-family: Georgia, serif;
 height: 120px;
 }
-header a { text-decoration: none; } header a:link { color: #FFFFFF; } header a:visited { color: #FFFFFF; } header a:hover { color: #90C7E3; }
+header a { text-decoration: none; } 
+header a:link { color: #FFFFFF; } 
+header a:visited { color: #FFFFFF; } 
+header a:hover { color: #90C7E3; }
 h1 {
 font-size: 3em;
 letter-spacing: 0.25em;
@@ -31,7 +35,8 @@ h2 {
 color: #1976D2;
 font-family: Georgia, serif;
 }
-h3 { font-family: Georgia, serif; } nav {
+h3 { font-family: Georgia, serif; } 
+nav {
 float: left;
 font-size: 1.2em;
 font-weight: bold;
@@ -39,8 +44,13 @@ padding: 0;
 position: fixed;
 width: 160px;
 }
-nav a { text-decoration: none; } nav a:link { color: #5C7FA3; } nav a:visited { color: #344873; } nav a:hover { color: #A52A2A; } nav ul {
-list-style-type: none; padding-left: 1em;
+nav a { text-decoration: none; } 
+nav a:link { color: #5C7FA3; } 
+nav a:visited { color: #344873; } 
+nav a:hover { color: #A52A2A; } 
+nav ul {
+list-style-type: none; 
+  padding-left: 1em;
 }
 main {
 background-color: #FFF;
